@@ -13,9 +13,9 @@ Ce TP de JavaScript Avancé qui fait partie du module Technologies Web et Multim
 
 - Manipulation des objets simples
 - Manipulation des classes et POO
-- Quelque methodes avancées du type array
+- Quelques methodes avancées du type array
 
 ## 3. Asynchronisme et API
 
 - Promesses
-- Fech + async/await
+- Fetch + async/await
